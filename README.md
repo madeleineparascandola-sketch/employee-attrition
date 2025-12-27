@@ -18,15 +18,11 @@ Though attrition is a natural part of the employee lifecycle, uneven or elevated
 - Sales Representatives exhibit higher attrition rate(~40%), compared to all other roles (<24%), suggesting role-specific factors may contribute to higher turnover.
 
 ## Visual Highlights
-### Attrition Rate by Age Group
-Attrition is highest among early-career employees and declines steadily across older age groups.
-
-![Attrition Rate by Age Group](plots/attrition_by_age.png)
 
 ### Attrition Rate by Job Role
 Sales Representatives exhibit a notably higher attrition rate (~40%) compared to other roles, suggesting role-specific retention challenges.
 
-![Attrition Rate by Job Role](plots/attrition_by_role.png)
+![Attrition Rate by Job Role](attrition_by_role.png)
 
 ### Attrition Rate by Income Band
 Employees in the lowest income band experience attrition rates more than double those of higher-income bands.
@@ -36,7 +32,7 @@ Employees in the lowest income band experience attrition rates more than double 
 ### Attrition Rate by Age Group & Overtime
 Overtime amplifies attrition risk, particularly amongst younger age groups.
 
-![Attrition Rate by Age Group & Overtime](main/attrition_by_age_and_OT.png)
+![Attrition Rate by Age Group & Overtime](attrition_by_age_and_OT.png)
 
 ## Data
 - **Source:** Employee Attrition dataset (Kaggle)
