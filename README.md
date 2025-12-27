@@ -31,12 +31,12 @@ Sales Representatives exhibit a notably higher attrition rate (~40%) compared to
 ### Attrition Rate by Income Band
 Employees in the lowest income band experience attrition rates more than double those of higher-income bands.
 
-![Attrition Rate by Income Band](plots/attrition_by_income.png)
+![Attrition Rate by Income Band](attrition_by_income.png)
 
 ### Attrition Rate by Age Group & Overtime
 Overtime amplifies attrition risk, particularly amongst younger age groups.
 
-![Attrition Rate by Age Group & Overtime](plots/attrition_by_age_and_OT.png)
+![Attrition Rate by Age Group & Overtime](main/attrition_by_age_and_OT.png)
 
 ## Data
 - **Source:** Employee Attrition dataset (Kaggle)
